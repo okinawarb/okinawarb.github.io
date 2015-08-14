@@ -1,15 +1,21 @@
-![Okinawa.rb Logo](https://dl.dropboxusercontent.com/u/2819285/okinawarb-logo-rect.png)
+---
+layout: default
+title:  Okinawa.rb - 沖縄Rubyユーザーグループ
+---
 
 このサイトでは、Okinawa.rb（沖縄Rubyユーザグループ）の活動内容や参加方法などの説明をしています。
 (__* English follows Japanese__)
 
 # Okinawa.rbとは？
-沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々の情報交換を目的として、毎月水曜日の夜に[MGWave](http://www.mgwave.com/)で Monthly Meetup を開いています。また、不定期にハッカソンや勉強会も開催しています。
+
+![Cover Photo](https://dl.dropboxusercontent.com/u/2819285/okinawarb_cover.jpg)
+
+沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々の情報交換を目的として、毎月水曜日の夜に [MGWave](http://www.mgwave.com/) で Monthly Meetup を開いています。また、不定期にハッカソンや勉強会も開催しています。
 
 沖縄在住の方でも、たまたま沖縄にフラっと寄っている方でも、どなたでも歓迎します。
 Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Group に登録するだけな方も歓迎です！
 
-# 情報の入手、まずはここからお気軽にどうぞ。
+# 情報の入手、まずはここから ;)
 
 次の Facebook Group で、Okinawa.rb の最新の活動を知ることが出来ます。沖縄在住の方に限らず広く受け入れているので、沖縄在住の方はもちろん、沖縄以外に住んでいる方も是非お気軽にお訪ねください！また、Monthly Meetup などのイベントの出欠管理も、こちらのグループで行っています。
 
@@ -62,7 +68,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 # 支援団体・企業
 
-## [株式会社KDDIウェブコミュニケーションズ(CloudCore VPS)](http://www.cloudcore.jp/vps/)
+## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
 [![KDDI Banner](http://dl.dropbox.com/u/2819285/kddi-banner.gif)](http://www.cloudcore.jp/vps/)   
 Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサーバをご提供して頂いております。
 
@@ -74,6 +80,10 @@ Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサー�
 [![ギー沖ロゴ](https://dl.dropboxusercontent.com/u/2819285/geeoki_logo.png)](http://text.geeoki.com/)   
 2015年3月まで、Okinawa.rb に対して会場をご提供して頂きました。
 
+## [おんがえし様 (個人)](https://twitter.com/ongaeshi)
+[![@ongaeshi Icon](/img/ongaeshi.jpg)](https://twitter.com/ongaeshi)  
+2015年4月1日より、[第7回 フクオカRuby大賞](http://www.digitalfukuoka.jp/topics/68?locale=ja)にてGMOペパボ賞を受賞された [@ongaeshi](https://twitter.com/ongaeshi) さんから、[ruby.okinawa](http://ruby.okinawa/) ドメイン (10年分) を寄贈して頂きました :)
+
 ## [ヤスラボ](http://yasslab.jp/)
 [![ヤスラボロゴ](https://dl.dropboxusercontent.com/u/2819285/yasslab_logo_rect.png)](http://yasslab.jp/)   
 Okinawa.rb の運営に協力して頂いております。
@@ -84,7 +94,7 @@ Okinawa.rb の運営に協力して頂いております。
 
 Okinawa.rb is a local community for Ruby/Rails users in Okinawa, Japan. From beginners to veterans, all those who are interested in Ruby/Rails are welcome!
 
-We have a [monthly meetup](http://ruby.okinawa/meetups/) at [MGWave](http://www.mgwave.com/) __ Wednesday Night (from 7pm)__ :)
+We have a [monthly meetup](http://ruby.okinawa/meetups/) at [MGWave](http://www.mgwave.com/) __Wednesday Night (from 7pm)__ :)
 
 ## What's Monthly Meetup?
 
