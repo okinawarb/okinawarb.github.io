@@ -1,0 +1,17 @@
+permalink: /:title
+author:
+  name:  Okinawa Ruby User Group | Okinawa.rb
+  email: okinawarb@gmail.com
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ruby.okinawa" # the base hostname & protocol for your site
+twitter_username: okinawarb
+github_username:  okinawarb
+source:      ./
+destination: ./_site
+timezone: Asia/Tokyo
+encoding: utf-8
+
+highlighter: pygments
+markdown: kramdown
+exclude: ["vendor", "Gemfile", "Gemfile.lock"]
