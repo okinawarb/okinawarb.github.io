@@ -8,7 +8,8 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 
 # Okinawa.rbとは？
 
-![Cover Photo](https://dl.dropboxusercontent.com/u/2819285/okinawarb_cover.jpg)
+<img src="https://dl.dropboxusercontent.com/u/2819285/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
+
 
 沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々の情報交換を目的として、毎月水曜日の夜に [MGWave](http://www.mgwave.com/) で Monthly Meetup を開いています。また、不定期にハッカソンや勉強会も開催しています。
 
@@ -63,7 +64,7 @@ Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Gr
 Okinawa.rbでは「面白いことがあればまずはやってみよう!」という方が多いです!   
 最近は、会場でレーザーカッターや3Dプリンタが使えるようになったので、Ruby/Rails + Maker 的なプロジェクトも活発です :)
 
-[![作品例](https://dl.dropboxusercontent.com/u/2819285/fab_album.jpg)](https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd)
+<a href="https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd"><img alt="作品例" src="https://dl.dropboxusercontent.com/u/2819285/fab_album.jpg" width="100%"></a>
 
 直近のイベントについては Doorkeeper または Facebook Group から告知されますので、興味があればまずは下記URLに遊びにきてください!
 
