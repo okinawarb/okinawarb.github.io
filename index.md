@@ -134,7 +134,7 @@ If you have a question, please feel free to visit and ask it at [our Facebook Gr
 
 <a href="https://www.facebook.com/media/set/?set=oa.869963949743083&type=1"><img alt="Meetup Scene 1/3" src="https://dl.dropboxusercontent.com/u/2819285/okinawarb_photos_1.png" width="100%"></a>
 
-### Hardware Hack
+### Hardware Hacks
 
 <a href="https://www.facebook.com/media/set/?set=oa.940660696006741&type=1"><img alt="Meetup Scene 2/3" src="https://dl.dropboxusercontent.com/u/2819285/okinawarb_photos_2.png" width="100%"></a>
 
