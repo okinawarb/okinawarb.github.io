@@ -25,12 +25,6 @@ Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Gr
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
 
-## 最近のツイート
-
-<a class="twitter-timeline" href="https://twitter.com/search?q=%22Okinawa.rb%22%20OR%20%22okinawarb%22%20OR%20%E6%B2%96%E7%B8%84Ruby" data-widget-id="690757332590931968">Okinawa.rb に関するツイート</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-
 # 今までどんなことしてたの？
 2011年に [@yasulab](https://twitter.com/yasulab) が Okinawa.rb を発起してから、これまでに次のようなイベントを参加/開催して来ました!
 
@@ -141,3 +135,8 @@ If you have a question, please feel free to visit and ask it at [our Facebook Gr
 ### Lightning Talks
 
 <a href="https://www.facebook.com/media/set/?set=oa.986240784782065&type=1"><img alt="Meetup Scene 3/3" src="https://dl.dropboxusercontent.com/u/2819285/okinawarb_photos_3.png" width="100%"></a>
+
+## Recent Tweets about Okinawa.rb
+
+<a class="twitter-timeline" href="https://twitter.com/search?q=%22Okinawa.rb%22%20OR%20%22okinawarb%22%20OR%20%E6%B2%96%E7%B8%84Ruby" data-widget-id="690757332590931968">Tweets about Okinawa Ruby User Group</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
