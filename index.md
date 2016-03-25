@@ -55,6 +55,9 @@ Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Gr
 - イベントの名称を Weekly Meetup から Monthly Meetup に変更しました!
 - イベントページを [Facebook Event](https://www.facebook.com/groups/okinawarb/events/) から [Doorkeeper](https://okinawarb.doorkeeper.jp/) に移行しました!
 
+## 2016年
+- 東京や米国のゲストを招いて、[第171回ミートアップ](https://www.facebook.com/media/set/?set=oa.986240784782065&type=1)を実施しました!
+
 Okinawa.rbでは「面白いことがあればまずはやってみよう!」という方が多いです!   
 最近は、会場でレーザーカッターや3Dプリンタが使えるようになったので、Ruby/Rails + Maker 的なプロジェクトも活発です :)
 
