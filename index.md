@@ -36,7 +36,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 
 # Okinawa.rbとは？
 
-<img src="https://dl.dropboxusercontent.com/u/2819285/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
+<img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
 
 沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々の情報交換を目的として、毎月水曜日の夜に [MGWave](http://www.mgwave.com/) で Monthly Meetup を開いています。また、不定期にハッカソンや勉強会も開催しています。
@@ -89,7 +89,7 @@ Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Gr
 Okinawa.rbでは「面白いことがあればまずはやってみよう!」という方が多いです!   
 最近は、会場でレーザーカッターや3Dプリンタが使えるようになったので、Ruby/Rails + Maker 的なプロジェクトも活発です :)
 
-<a href="https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd"><img alt="作品例" src="https://dl.dropboxusercontent.com/u/2819285/fab_album.jpg" width="100%"></a>
+<a href="https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd"><img alt="作品例" src="/img/fab_album.jpg" width="100%"></a>
 
 直近のイベントについては Doorkeeper または Facebook Group から告知されますので、興味があればまずは下記URLに遊びにきてください!
 
@@ -106,11 +106,11 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサーバをご提供して頂いております。
 
 ## [有限会社 MGWave](http://www.mgwave.com/)
-<a href="http://www.mgwave.com/"><img alt="MGWaveロゴ" src="https://dl.dropboxusercontent.com/u/2819285/mgwave_logo.png" width="100%"></a>   
+<a href="http://www.mgwave.com/"><img alt="MGWaveロゴ" src="/img/mgwave_logo.png" width="100%"></a>   
 2015年3月から、Okinawa.rb に対して会場と機材(レーザーカッター、3Dプリンタ、カッティングプロッタなど)をご提供して頂いております。各機材の使い方は[コチラ](http://www.slideshare.net/mgwsuzuki/presentations)から公開されております。
 
 ## [ギークハウス沖縄](http://text.geeoki.com/)
-<a href="http://text.geeoki.com/"><img alt="ギー沖ロゴ" src="https://dl.dropboxusercontent.com/u/2819285/geeoki_logo.png" width="100%"></a>   
+<a href="http://text.geeoki.com/"><img alt="ギー沖ロゴ" src="/img/geeoki_logo.png" width="100%"></a>   
 2015年3月まで、Okinawa.rb に対して会場をご提供して頂きました。
 
 ## [おんがえし様 (個人)](https://twitter.com/ongaeshi)
@@ -118,7 +118,7 @@ Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサー�
 2015年4月1日より、[第7回 フクオカRuby大賞](http://www.digitalfukuoka.jp/topics/68?locale=ja)にてGMOペパボ賞を受賞された [@ongaeshi](https://twitter.com/ongaeshi) さんから、[ruby.okinawa](http://ruby.okinawa/) ドメイン (10年分) を寄贈して頂きました :)
 
 ## [YassLab](https://yasslab.jp/)
-<a href="https://yasslab.jp/"><img alt="YassLab社ロゴ" src="https://dl.dropboxusercontent.com/u/2819285/yasslab_logo_rect.png" width="100%"></a>   
+<a href="https://yasslab.jp/"><img alt="YassLab社ロゴ" src="/img/yasslab_logo_copy.png" width="100%"></a>   
 Okinawa.rb の運営に協力して頂いております。
 
 
@@ -157,15 +157,15 @@ If you have a question, please feel free to visit and ask it at [our Facebook Gr
 
 ### Okinawa.rb meets Taiwan
 
-<a href="https://www.facebook.com/media/set/?set=oa.869963949743083&type=1"><img alt="Meetup Scene 1/3" src="https://dl.dropboxusercontent.com/u/2819285/okinawarb_photos_1.png" width="100%"></a>
+<a href="https://www.facebook.com/media/set/?set=oa.869963949743083&type=1"><img alt="Meetup Scene 1/3" src="/img/okinawarb_photos_1.png" width="100%"></a>
 
 ### Hardware Hacks
 
-<a href="https://www.facebook.com/media/set/?set=oa.940660696006741&type=1"><img alt="Meetup Scene 2/3" src="https://dl.dropboxusercontent.com/u/2819285/okinawarb_photos_2.png" width="100%"></a>
+<a href="https://www.facebook.com/media/set/?set=oa.940660696006741&type=1"><img alt="Meetup Scene 2/3" src="/img/okinawarb_photos_2.png" width="100%"></a>
 
 ### Lightning Talks
 
-<a href="https://www.facebook.com/media/set/?set=oa.986240784782065&type=1"><img alt="Meetup Scene 3/3" src="https://dl.dropboxusercontent.com/u/2819285/okinawarb_photos_3.png" width="100%"></a>
+<a href="https://www.facebook.com/media/set/?set=oa.986240784782065&type=1"><img alt="Meetup Scene 3/3" src="/img/okinawarb_photos_3.png" width="100%"></a>
 
 ## Recent Tweets about Okinawa.rb
 
