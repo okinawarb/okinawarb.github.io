@@ -73,25 +73,25 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 # 支援団体・企業
 
 ## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
-[![KDDI Banner](http://dl.dropbox.com/u/2819285/kddi-banner.gif)](http://www.cloudcore.jp/vps/)   
+
+<a href="http://www.cloudcore.jp/vps/"><img alt="KDDI Banner" src="http://dl.dropbox.com/u/2819285/kddi-banner.gif" width="100%"></a>   
 Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサーバをご提供して頂いております。
 
 ## [有限会社 MGWave](http://www.mgwave.com/)
-[![MGWaveロゴ](https://dl.dropboxusercontent.com/u/2819285/mgwave_logo.png)](http://www.mgwave.com/)   
+<a href="http://www.mgwave.com/"><img alt="MGWaveロゴ" src="https://dl.dropboxusercontent.com/u/2819285/mgwave_logo.png" width="100%"></a>   
 2015年3月から、Okinawa.rb に対して会場と機材(レーザーカッター、3Dプリンタ、カッティングプロッタなど)をご提供して頂いております。各機材の使い方は[コチラ](http://www.slideshare.net/mgwsuzuki/presentations)から公開されております。
 
 ## [ギークハウス沖縄](http://text.geeoki.com/)
-[![ギー沖ロゴ](https://dl.dropboxusercontent.com/u/2819285/geeoki_logo.png)](http://text.geeoki.com/)   
+<a href="http://text.geeoki.com/"><img alt="ギー沖ロゴ" src="https://dl.dropboxusercontent.com/u/2819285/geeoki_logo.png" width="100%"></a>   
 2015年3月まで、Okinawa.rb に対して会場をご提供して頂きました。
 
 ## [おんがえし様 (個人)](https://twitter.com/ongaeshi)
-[![@ongaeshi Icon](/img/ongaeshi.jpg)](https://twitter.com/ongaeshi)  
+[![@ongaeshiアイコン](/img/ongaeshi.jpg)](https://twitter.com/ongaeshi)   
 2015年4月1日より、[第7回 フクオカRuby大賞](http://www.digitalfukuoka.jp/topics/68?locale=ja)にてGMOペパボ賞を受賞された [@ongaeshi](https://twitter.com/ongaeshi) さんから、[ruby.okinawa](http://ruby.okinawa/) ドメイン (10年分) を寄贈して頂きました :)
 
-## [ヤスラボ](http://yasslab.jp/)
-[![ヤスラボロゴ](https://dl.dropboxusercontent.com/u/2819285/yasslab_logo_rect.png)](http://yasslab.jp/)   
+## [YassLab](https://yasslab.jp/)
+<a href="https://yasslab.jp/"><img alt="YassLab社ロゴ" src="https://dl.dropboxusercontent.com/u/2819285/yasslab_logo_rect.png" width="100%"></a>   
 Okinawa.rb の運営に協力して頂いております。
-
 
 
 # What's Okinawa.rb? 
@@ -141,5 +141,5 @@ If you have a question, please feel free to visit and ask it at [our Facebook Gr
 
 ## Recent Tweets about Okinawa.rb
 
-<a class="twitter-timeline" href="https://twitter.com/search?q=%22Okinawa.rb%22%20OR%20%22okinawarb%22%20OR%20%E6%B2%96%E7%B8%84Ruby" data-widget-id="690757332590931968">Tweets about Okinawa Ruby User Group</a>
+<a class="twitter-timeline" href="https://twitter.com/search?q=%22Okinawa.rb%22%20OR%20%22okinawarb%22%20OR%20%E6%B2%96%E7%B8%84Ruby" data-partner="tweetdeck" data-tweet-limit="5" data-widget-id="690757332590931968">Tweets about Okinawa Ruby User Group</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
