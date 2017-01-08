@@ -16,7 +16,8 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 	 data-hashtags="okinawarb"
 	 data-text="Okinawa.rb - Okinawa Ruby User Group"
 	 data-lang="ja" data-via="okinawarb" width="100">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
-    <li style="display: inline-block;"><a href="https://b.hatena.ne.jp/entry/ruby.okinawa"
+  <li style="display: inline-block;"><a class="github-button" href="https://github.com/okinawarb/okinawarb.github.io" data-count-href="/okinawarb/okinawarb.github.io/stargazers" data-count-api="/repos/okinawarb/okinawarb.github.io#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star okinawarb/okinawarb.github.io on GitHub">Star</a></li>
+  <li style="display: inline-block;"><a href="https://b.hatena.ne.jp/entry/ruby.okinawa"
 	   class="hatena-bookmark-button"
 	   data-hatena-bookmark-title="Okinawa.rb - Okinawa Ruby User Group"
 	   data-hatena-bookmark-layout="standard-balloon"
