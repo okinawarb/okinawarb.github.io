@@ -6,6 +6,33 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 このサイトでは、Okinawa.rb（沖縄Rubyユーザグループ）の活動内容や参加方法などの説明をしています。
 (__* English follows Japanese__)
 
+<ol style="list-style:none; margin-left: -23px;">
+  <li style="display: inline-block; line-height: 10px;">
+     <div class="fb-like" data-href="http://ruby.okinawa/" data-layout="button_count"
+	 data-action="like" data-show-faces="true" data-share="true"></div></li>
+  <li style="display: inline-block;">
+      <a href="https://twitter.com/share" class="twitter-share-button"
+	 data-url="http://ruby.okinawa/"
+	 data-hashtags="okinawarb"
+	 data-text="Okinawa.rb - Okinawa Ruby User Group"
+	 data-lang="ja" data-via="okinawarb" width="100">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
+    <li style="display: inline-block;"><a href="https://b.hatena.ne.jp/entry/ruby.okinawa"
+	   class="hatena-bookmark-button"
+	   data-hatena-bookmark-title="Okinawa.rb - Okinawa Ruby User Group"
+	   data-hatena-bookmark-layout="standard-balloon"
+	   data-hatena-bookmark-lang="ja"
+	   title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></li>
+    <li style="display: inline-block;"><div class="g-plusone" data-size="medium" data-lang="ja"></div>
+      <script type="text/javascript">
+	(function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+      </script>
+    </li>
+  </ol>
+
 # Okinawa.rbとは？
 
 <img src="https://dl.dropboxusercontent.com/u/2819285/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
