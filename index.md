@@ -34,7 +34,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
     </li>
   </ol>
 
-# Okinawa.rbとは？
+# 🤔 Okinawa.rbとは？
 
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
@@ -44,7 +44,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 沖縄在住の方でも、たまたま沖縄にフラっと寄っている方でも、どなたでも歓迎します。
 Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Group に登録するだけな方も歓迎です！
 
-# 情報の入手、まずはここから ;)
+## 情報の入手、まずはここから ;)
 
 次の Facebook Group で、Okinawa.rb の最新の活動を知ることが出来ます。沖縄在住の方に限らず広く受け入れているので、沖縄在住の方はもちろん、沖縄以外に住んでいる方も是非お気軽にお訪ねください！また、Monthly Meetup などのイベントの出欠管理も、こちらのグループで行っています。
 
@@ -53,7 +53,7 @@ Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Gr
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
 
-# 今までどんなことしてたの？
+# 📈 今までどんなことしてたの？
 2011年に [@yasulab](https://twitter.com/yasulab) が Okinawa.rb を発起してから、これまでに次のようなイベントを参加/開催して来ました!
 
 ## 2011年
@@ -98,7 +98,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
 
-# 支援団体・企業
+# 🏢 支援団体・企業
 
 ## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
 
@@ -124,13 +124,13 @@ Okinawa.rb の運営に協力して頂いております。
 
 <div id="english"></div>
 
-# What's Okinawa.rb? 
+# 🤔 What's Okinawa.rb? 
 
 Okinawa.rb is a local community for Ruby/Rails users in Okinawa, Japan. From beginners to veterans, all those who are interested in Ruby/Rails are welcome!
 
 We have a [monthly meetup](http://ruby.okinawa/meetups/) at [MGWave](http://www.mgwave.com/) __Wednesday Night (from 7pm)__ :)
 
-## What's Monthly Meetup?
+## 🍕 What's Monthly Meetup?
 
 This is a monthly meetup hosted by Okinawa.rb and MGWave, where people who like Ruby/Rails get together and casually share their information with snacks and drinks!
 
@@ -140,7 +140,7 @@ Also, you can freely use wireless, power source, and a projector if you have som
 
 NOTE: You can park at MGWave, but only a few cars can park. So, if you come here by car, you may need to park at somewhere around it.
 
-## Fabrication!
+## 🔧 Fabrication!
 
 From Marchi 2015, our meetup starts collaborating with gFab Okinawa (MGWave), where you can use 3D printer, laser cutting machine, cutting plotter, milling machine, etc. So, you can challenge to fabricate something! Maybe you can create something new web services with Ruby/Rails :) 
 
@@ -155,21 +155,30 @@ For more information, please visit the following websites:
 
 If you have a question, please feel free to visit and ask it at [our Facebook Group](https://www.facebook.com/groups/okinawarb/) ;)
 
-## Photos
+## 📸 Photos
 
-### Okinawa.rb meets Taiwan
+### 🇹🇼 Okinawa.rb meets Taiwan
 
 <a href="https://www.facebook.com/media/set/?set=oa.869963949743083&type=1"><img alt="Meetup Scene 1/3" src="/img/okinawarb_photos_1.png" width="100%"></a>
 
-### Hardware Hacks
+### 🛠 Hardware Hacks
 
 <a href="https://www.facebook.com/media/set/?set=oa.940660696006741&type=1"><img alt="Meetup Scene 2/3" src="/img/okinawarb_photos_2.png" width="100%"></a>
 
-### Lightning Talks
+### 🗣 Lightning Talks
 
 <a href="https://www.facebook.com/media/set/?set=oa.986240784782065&type=1"><img alt="Meetup Scene 3/3" src="/img/okinawarb_photos_3.png" width="100%"></a>
 
-## Recent Tweets about Okinawa.rb
+## 🐦 Recent Tweets about Okinawa.rb
 
 <a class="twitter-timeline" href="https://twitter.com/search?q=%22Okinawa.rb%22%20OR%20%22okinawarb%22%20OR%20%E6%B2%96%E7%B8%84Ruby" data-partner="tweetdeck" data-tweet-limit="5" data-widget-id="690757332590931968">Tweets about Okinawa Ruby User Group</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+## 💎✨ Join in the community!
+
+You can get upcoming information by joining in the following community page ;) 🏃💨   
+[Okinawa Ruby User Group - Doorkeeper](https://okinawarb.doorkeeper.jp/)
+
+<img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
+
+
