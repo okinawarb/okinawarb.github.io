@@ -4,7 +4,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 ---
 
 このサイトでは、Okinawa.rb（沖縄Rubyユーザグループ）の活動内容や参加方法などの説明をしています。
-(__* English follows Japanese__)
+(__[English follows Japanese](#english)__)
 
 <ol style="list-style:none; margin-left: -23px;">
   <li style="display: inline-block; line-height: 10px;">
@@ -121,6 +121,8 @@ Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサー�
 <a href="https://yasslab.jp/"><img alt="YassLab社ロゴ" src="/img/yasslab_logo_copy.png" width="100%"></a>   
 Okinawa.rb の運営に協力して頂いております。
 
+
+<div id="english"></div>
 
 # What's Okinawa.rb? 
 
