@@ -48,8 +48,8 @@ Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Gr
 
 次の Facebook Group で、Okinawa.rb の最新の活動を知ることが出来ます。沖縄在住の方に限らず広く受け入れているので、沖縄在住の方はもちろん、沖縄以外に住んでいる方も是非お気軽にお訪ねください！また、Monthly Meetup などのイベントの出欠管理も、こちらのグループで行っています。
 
-- [__Okinawa.rb - Slack__](http://okinawarb-slack.herokuapp.com/) (雑談などに使います)
-- [__Okinawa.rb - Facebook Group__](http://www.facebook.com/groups/okinawarb/) (イベントの告知に使います)
+- [__Okinawa.rb - Slack__](http://slack.ruby.okinawa/) (雑談などに使います)
+- [__Okinawa.rb - Facebook Group__](https://www.facebook.com/groups/okinawarb/) (イベントの告知に使います)
 - [__Okinawa.rb - Monthly Meetup!__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
