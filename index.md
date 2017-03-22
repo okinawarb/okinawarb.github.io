@@ -172,8 +172,10 @@ If you have a question, please feel free to visit and ask it at [our Facebook Gr
 
 ## 🐦 Recent Tweets about Okinawa.rb
 
-<a class="twitter-timeline" href="https://twitter.com/search?q=%22Okinawa.rb%22%20OR%20%22okinawarb%22%20OR%20%E6%B2%96%E7%B8%84Ruby" data-partner="tweetdeck" data-tweet-limit="5" data-widget-id="690757332590931968">Tweets about Okinawa Ruby User Group</a>
+<a class="twitter-timeline"  href="https://twitter.com/search?q=%22Okinawa.rb%22%20OR%20%22okinawarb%22%20OR%20%22%E6%B2%96%E7%B8%84Ruby%22" data-tweet-limit="5" data-widget-id="844396051410960384">
+Tweets about Okinawa Ruby User Group</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          
 
 ## 💎✨ Join in the community!
 
