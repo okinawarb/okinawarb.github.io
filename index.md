@@ -52,7 +52,7 @@ Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Gr
 - [__Okinawa.rb - Facebook Group__](https://www.facebook.com/groups/okinawarb/) (イベントの告知に使います)
 - [__Okinawa.rb - Monthly Meetup!__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
-- [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
+- [__#okinawarb - Twitter__](https://twitter.com/search?q=%23okinawarb%20OR%20%22Okinawa.rb%22&src=typd) (Twitter上のハッシュタグです)
 
 # 📈 今までどんなことしてたの？
 2011年に [@yasulab](https://twitter.com/yasulab) が Okinawa.rb を発起してから、これまでに次のようなイベントを参加/開催して来ました!
