@@ -99,7 +99,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
 
-<h1 id="sponsor">🏢 支援団体・企業</h1>
+<h1 id="sponsors">🏢 支援団体・企業</h1>
 
 ## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
 
