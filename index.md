@@ -34,7 +34,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
     </li>
   </ol>
 
-# 🤔 Okinawa.rbとは？
+<h1 id="about">🤔 Okinawa.rbとは？</h1>
 
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
@@ -54,7 +54,7 @@ Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Gr
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?q=%23okinawarb%20OR%20%22Okinawa.rb%22&src=typd) (Twitter上のハッシュタグです)
 
-# 📈 今までどんなことしてたの？
+<h1 id="history">📈 今までどんなことしてたの？</h1>
 2011年に [@yasulab](https://twitter.com/yasulab) が Okinawa.rb を発起してから、これまでに次のようなイベントを参加/開催して来ました!
 
 ## 2011年
@@ -99,7 +99,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
 
-# 🏢 支援団体・企業
+<h1 id="sponsor">🏢 支援団体・企業</h1>
 
 ## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
 
