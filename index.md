@@ -184,6 +184,6 @@ Tweets about Okinawa Ruby User Group</a>
 You can get upcoming information by joining in the following community page ;) 🏃💨   
 [Okinawa Ruby User Group - Doorkeeper](https://okinawarb.doorkeeper.jp/)
 
-<img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
+<a href="https://okinawarb.doorkeeper.jp/"><img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/></a>
 
 
