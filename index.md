@@ -101,11 +101,6 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 <h1 id="sponsors">🏢 支援団体・企業</h1>
 
-## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
-
-<a href="http://www.cloudcore.jp/vps/"><img alt="KDDI Banner" src="http://dl.dropbox.com/u/2819285/kddi-banner.gif" width="100%"></a>   
-Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサーバをご提供して頂いております。
-
 ## [有限会社 MGWave](http://www.mgwave.com/)
 <a href="http://www.mgwave.com/"><img alt="MGWaveロゴ" src="/img/mgwave_logo.png" width="100%"></a>   
 2015年3月から、Okinawa.rb に対して会場と機材(レーザーカッター、3Dプリンタ、カッティングプロッタなど)をご提供して頂いております。各機材の使い方は[コチラ](http://www.slideshare.net/mgwsuzuki/presentations)から公開されております。
@@ -114,6 +109,11 @@ Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサー�
 <a href="http://text.geeoki.com/"><img alt="ギー沖ロゴ" src="/img/geeoki_logo.png" width="100%"></a>   
 2015年3月まで、Okinawa.rb に対して会場をご提供して頂きました。
 
+## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
+
+<a href="http://www.cloudcore.jp/vps/"><img alt="KDDI Banner" src="http://dl.dropbox.com/u/2819285/kddi-banner.gif" width="100%"></a>   
+2017年3月まで、Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサーバをご提供して頂きました
+
 ## [おんがえし様 (個人)](https://twitter.com/ongaeshi)
 [![@ongaeshiアイコン](/img/ongaeshi.jpg)](https://twitter.com/ongaeshi)   
 2015年4月1日より、[第7回 フクオカRuby大賞](http://www.digitalfukuoka.jp/topics/68?locale=ja)にてGMOペパボ賞を受賞された [@ongaeshi](https://twitter.com/ongaeshi) さんから、[ruby.okinawa](http://ruby.okinawa/) ドメイン (10年分) を寄贈して頂きました :)
@@ -121,7 +121,6 @@ Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサー�
 ## [YassLab](https://yasslab.jp/)
 <a href="https://yasslab.jp/"><img alt="YassLab社ロゴ" src="/img/yasslab_logo_copy.png" width="100%"></a>   
 Okinawa.rb の運営に協力して頂いております。
-
 
 <div id="english"></div>
 
