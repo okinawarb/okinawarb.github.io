@@ -39,10 +39,10 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
 
-沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々の情報交換を目的として、毎月水曜日の夜に [MGWave](http://www.mgwave.com/) で Monthly Meetup を開いています。また、不定期にハッカソンや勉強会も開催しています。
+沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、毎月２回、那覇市 ([MGWave](http://www.mgwave.com/)) と沖縄市 ([ギークハウス沖縄](http://blog.geekhouse.okinawa/access)) で Monthly Meetup を開いています。また、不定期にハッカソンや勉強会も開催しています。
 
-沖縄在住の方でも、たまたま沖縄にフラっと寄っている方でも、どなたでも歓迎します。
-Monthly Meetup に参加して頂けると大変嬉しいですが、Facebook Group に登録するだけな方も歓迎です！
+沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方や、[Slack](http://slack.ruby.okinawa/) を覗いてみたいだけな方も歓迎です！
+
 
 ## 情報の入手、まずはここから ;)
 
@@ -92,6 +92,9 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 <a href="https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd"><img alt="作品例" src="/img/fab_album.jpg" width="100%"></a>
 
+## 2017年
+- 沖縄市の[ギークハウス沖縄](http://blog.geekhouse.okinawa/)でも毎月開催されることになり、月２回開催になりました!
+
 直近のイベントについては Doorkeeper または Facebook Group から告知されますので、興味があればまずは下記URLに遊びにきてください!
 
 - [__Okinawa.rb - Facebook Group__](http://www.facebook.com/groups/okinawarb/) (雑談や告知などに使います)
@@ -103,11 +106,11 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 ## [有限会社 MGWave](http://www.mgwave.com/)
 <a href="http://www.mgwave.com/"><img alt="MGWaveロゴ" src="/img/mgwave_logo.png" width="100%"></a>   
-2015年3月から、Okinawa.rb に対して会場と機材(レーザーカッター、3Dプリンタ、カッティングプロッタなど)をご提供して頂いております。各機材の使い方は[コチラ](http://www.slideshare.net/mgwsuzuki/presentations)から公開されております。
+2015年3月から、那覇市で行われる Okinawa.rb に対して会場と機材 (レーザーカッター、3Dプリンタ、カッティングプロッタなど) をご提供して頂いております。各機材の使い方は[コチラ](http://www.slideshare.net/mgwsuzuki/presentations)から公開されております。
 
 ## [ギークハウス沖縄](http://text.geeoki.com/)
 <a href="http://text.geeoki.com/"><img alt="ギー沖ロゴ" src="/img/geeoki_logo.png" width="100%"></a>   
-2015年3月まで、Okinawa.rb に対して会場をご提供して頂きました。
+沖縄市で開催される Okinawa.rb での会場提供および運営にご協力して頂いております。
 
 ## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
 
@@ -120,7 +123,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 ## [YassLab](https://yasslab.jp/)
 <a href="https://yasslab.jp/"><img alt="YassLab社ロゴ" src="/img/yasslab_logo_copy.png" width="100%"></a>   
-Okinawa.rb の運営に協力して頂いております。
+Okinawa.rb の運営に協力して頂いております。また、[Doorkeeperスポンサーシップ](https://yasslab.jp/ja/doorkeeper/)も提供して頂いております。
 
 <div id="english"></div>
 
@@ -128,17 +131,17 @@ Okinawa.rb の運営に協力して頂いております。
 
 Okinawa.rb is a local community for Ruby/Rails users in Okinawa, Japan. From beginners to veterans, all those who are interested in Ruby/Rails are welcome!
 
-We have a [monthly meetup](http://ruby.okinawa/meetups/) at [MGWave](http://www.mgwave.com/) __Wednesday Night (from 7pm)__ :)
+We have monthly meetups twice per month at [MGWave](http://www.mgwave.com/) and [GeekHouse Okinawa](http://blog.geekhouse.okinawa/) :)
 
 ## 🍕 What's Monthly Meetup?
 
-This is a monthly meetup hosted by Okinawa.rb and MGWave, where people who like Ruby/Rails get together and casually share their information with snacks and drinks!
+Monthly meetup is organized by Okinawa.rb, where people who like Ruby/Rails get together and casually share their information with snacks and drinks!
 
 The meetup starts from about 7pm. Beginners are very welcome! If there is a new person, we'll introduce themselves each other and share what they'd like to do for the future.
 
 Also, you can freely use wireless, power source, and a projector if you have something to share.
 
-NOTE: You can park at MGWave, but only a few cars can park. So, if you come here by car, you may need to park at somewhere around it.
+NOTE: You can park at the venue, but only a few cars can park. So, if you come here by car, you may need to park at somewhere around it.
 
 ## 🔧 Fabrication!
 
