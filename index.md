@@ -93,7 +93,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 <a href="https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd"><img alt="作品例" src="/img/fab_album.jpg" width="100%"></a>
 
 ## 2017年
-- 沖縄市の[ギークハウス沖縄](http://blog.geekhouse.okinawa/)でも毎月開催されることになり、月２回開催になりました!
+- 沖縄市で[rebuildされたギークハウス沖縄](http://saboyutaka.hatenablog.com/entry/2016/12/17/165037)でも毎月開催されることになり、月２回開催になりました!
 
 直近のイベントについては Doorkeeper または Facebook Group から告知されますので、興味があればまずは下記URLに遊びにきてください!
 
@@ -108,8 +108,8 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 <a href="http://www.mgwave.com/"><img alt="MGWaveロゴ" src="/img/mgwave_logo.png" width="100%"></a>   
 2015年3月から、那覇市で行われる Okinawa.rb に対して会場と機材 (レーザーカッター、3Dプリンタ、カッティングプロッタなど) をご提供して頂いております。各機材の使い方は[コチラ](http://www.slideshare.net/mgwsuzuki/presentations)から公開されております。
 
-## [ギークハウス沖縄](http://text.geeoki.com/)
-<a href="http://text.geeoki.com/"><img alt="ギー沖ロゴ" src="/img/geeoki_logo.png" width="100%"></a>   
+## [ギークハウス沖縄](http://blog.geekhouse.okinawa/)
+<a href="http://blog.geekhouse.okinawa/"><img alt="ギー沖ロゴ" src="/img/geeoki_logo.png" width="100%"></a>   
 沖縄市で開催される Okinawa.rb での会場提供および運営にご協力して頂いております。
 
 ## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
