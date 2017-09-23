@@ -113,11 +113,6 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 <a href="http://blog.geekhouse.okinawa/"><img alt="ギー沖ロゴ" src="/img/geeoki_logo.png" width="100%"></a>   
 沖縄市で開催される Okinawa.rb での会場提供および運営にご協力して頂いております。
 
-## [株式会社KDDIウェブコミュニケーションズ](http://www.cloudcore.jp/vps/)
-
-<a href="http://www.cloudcore.jp/vps/"><img alt="KDDI Banner" src="http://dl.dropbox.com/u/2819285/kddi-banner.gif" width="100%"></a>   
-2017年3月まで、Okinawa.rb に対して [CloudCore VPS](http://www.cloudcore.jp/vps/) のサーバをご提供して頂きました
-
 ## [おんがえし様 (個人)](https://twitter.com/ongaeshi)
 [![@ongaeshiアイコン](/img/ongaeshi.jpg)](https://twitter.com/ongaeshi)   
 2015年4月1日より、[第7回 フクオカRuby大賞](http://www.digitalfukuoka.jp/topics/68?locale=ja)にてGMOペパボ賞を受賞された [@ongaeshi](https://twitter.com/ongaeshi) さんから、[ruby.okinawa](http://ruby.okinawa/) ドメイン (10年分) を寄贈して頂きました :)
