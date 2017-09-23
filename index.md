@@ -39,18 +39,18 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
 
-沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、毎月２回、那覇市 ([MGWave](http://www.mgwave.com/)) と沖縄市 ([ギークハウス沖縄](http://blog.geekhouse.okinawa/access)) で Monthly Meetup を開いています。また、不定期にハッカソンや勉強会も開催しています。
+沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、毎月２回、那覇市 ([MGWave](http://www.mgwave.com/)) と沖縄市 ([ギークハウス沖縄](http://blog.geekhouse.okinawa/access)) で Meetup を開いています。また、不定期にハッカソンや勉強会も開催しています。
 
 沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方や、[Slack](http://slack.ruby.okinawa/) を覗いてみたいだけな方も歓迎です！
 
 
 ## 情報の入手、まずはここから ;)
 
-次の Facebook Group で、Okinawa.rb の最新の活動を知ることが出来ます。沖縄在住の方に限らず広く受け入れているので、沖縄在住の方はもちろん、沖縄以外に住んでいる方も是非お気軽にお訪ねください！また、Monthly Meetup などのイベントの出欠管理も、こちらのグループで行っています。
+次のリンク先から Okinawa.rb の最新の活動を知ることができます。沖縄在住の方に限らず広く受け入れているので、沖縄在住の方はもちろん、沖縄以外に住んでいる方も是非お気軽にお訪ねください！
 
 - [__Okinawa.rb - Slack__](http://slack.ruby.okinawa/) (雑談などに使います)
 - [__Okinawa.rb - Facebook Group__](https://www.facebook.com/groups/okinawarb/) (イベントの告知に使います)
-- [__Okinawa.rb - Monthly Meetup!__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
+- [__Okinawa.rb - Meetups__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?q=%23okinawarb%20OR%20%22Okinawa.rb%22&src=typd) (Twitter上のハッシュタグです)
 
@@ -94,11 +94,12 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 ## 2017年
 - 沖縄市で[rebuildされたギークハウス沖縄](http://saboyutaka.hatenablog.com/entry/2016/12/17/165037)でも毎月開催されることになり、月２回開催になりました!
+- イベント名を Monthly Meetup から Okinawa.rb Meetup に変更 
 
-直近のイベントについては Doorkeeper または Facebook Group から告知されますので、興味があればまずは下記URLに遊びにきてください!
+直近のイベントについては Doorkeeper や Facebook グループから告知されますので、興味があればまずは下記URLに遊びにきてください!
 
 - [__Okinawa.rb - Facebook Group__](http://www.facebook.com/groups/okinawarb/) (雑談や告知などに使います)
-- [__Okinawa.rb - Monthly Meetup!__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
+- [__Okinawa.rb - Meetups__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
 
@@ -131,11 +132,11 @@ Okinawa.rb の運営に協力して頂いております。また、[Doorkeeper�
 
 Okinawa.rb is a local community for Ruby/Rails users in Okinawa, Japan. From beginners to veterans, all those who are interested in Ruby/Rails are welcome!
 
-We have monthly meetups twice per month at [MGWave](http://www.mgwave.com/) and [GeekHouse Okinawa](http://blog.geekhouse.okinawa/) :)
+We have two meetups in a month at [MGWave](http://www.mgwave.com/) and [GeekHouse Okinawa](http://blog.geekhouse.okinawa/). :)
 
-## 🍕 What's Monthly Meetup?
+## 🍕 Wha we do in the meetup?
 
-Monthly meetup is organized by Okinawa.rb, where people who like Ruby/Rails get together and casually share their information with snacks and drinks!
+The meetup is organized by Okinawa.rb, where people who like Ruby/Rails get together and casually share their information with snacks and drinks!
 
 The meetup starts from about 7pm. Beginners are very welcome! If there is a new person, we'll introduce themselves each other and share what they'd like to do for the future.
 
@@ -153,7 +154,7 @@ For more information, please visit the following websites:
 
 - [MGWave on Google Map](http://goo.gl/maps/KLRAJ)
 - [Photos of Fabrication](https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd)
-- [Records of Monthly Meetup](http://ruby.okinawa/meetups/)
+- [Records of Meetup](http://ruby.okinawa/meetups/)
 - [Presentation Slides: "Invitation to Okinawa.rb"](https://speakerdeck.com/yasulab/geekhouse-okinawa-and-okinawa-dot-rb)
 
 If you have a question, please feel free to visit and ask it at [our Facebook Group](https://www.facebook.com/groups/okinawarb/) ;)
