@@ -117,9 +117,9 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 [![@ongaeshiアイコン](/img/ongaeshi.jpg)](https://twitter.com/ongaeshi)   
 2015年4月1日より、[第7回 フクオカRuby大賞](http://www.digitalfukuoka.jp/topics/68?locale=ja)にてGMOペパボ賞を受賞された [@ongaeshi](https://twitter.com/ongaeshi) さんから、[ruby.okinawa](http://ruby.okinawa/) ドメイン (10年分) を寄贈して頂きました :)
 
-## [YassLab](https://yasslab.jp/)
-<a href="https://yasslab.jp/"><img alt="YassLab社ロゴ" src="/img/yasslab_logo_copy.png" width="100%"></a>   
-Okinawa.rb の運営に協力して頂いております。また、[Doorkeeperスポンサーシップ](https://yasslab.jp/ja/doorkeeper/)も提供して頂いております。
+## [YassLab 株式会社](https://yasslab.jp/)
+<a href="https://yasslab.jp/"><img alt="YassLab 株式会社のロゴ" src="https://yasslab.jp/img/logo_800x200.png" width="100%"></a>   
+Okinawa.rb の運営に協力して頂いております。また、[Doorkeeper スポンサーシップ](https://yasslab.jp/ja/doorkeeper/)も提供して頂いております。
 
 <div id="english"></div>
 
