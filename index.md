@@ -49,10 +49,15 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 次のリンク先から Okinawa.rb の最新の活動を知ることができます。沖縄在住の方に限らず広く受け入れているので、沖縄在住の方はもちろん、沖縄以外に住んでいる方も是非お気軽にお訪ねください！
 
 - [__Okinawa.rb - Slack__](http://slack.ruby.okinawa/) (雑談などに使います)
-- [__Okinawa.rb - Facebook Group__](https://www.facebook.com/groups/okinawarb/) (イベントの告知に使います)
-- [__Okinawa.rb - Meetups__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
-- [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?q=%23okinawarb%20OR%20%22Okinawa.rb%22&src=typd) (Twitter上のハッシュタグです)
+- [__Okinawa.rb - Doorkeeper__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
+
+<!--
+- 過去に使ってたサービス (今はあまり使ってません)
+   - [__Okinawa.rb - Facebook Group__](https://www.facebook.com/groups/okinawarb/) (イベントの告知に使います)
+   - [__Okinawa.rb - Meetups__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
+-->
+
 
 <h1 id="history">📈 今までどんなことしてたの？</h1>
 2011年に [@yasulab](https://twitter.com/yasulab) が Okinawa.rb を発起してから、これまでに次のようなイベントを参加/開催して来ました!
