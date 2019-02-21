@@ -63,7 +63,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 2011年に [@yasulab](https://twitter.com/yasulab) が Okinawa.rb を発起してから、これまでに次のようなイベントを参加/開催して来ました!
 
 ## 2011年
-- Okinawa.rb 発足 ([当時の(貴重な?)スライド資料](http://www.slideshare.net/yasulab/okinawarb-announce))
+- Okinawa.rb 発足 ([発足当時のスライド資料](http://www.slideshare.net/yasulab/okinawarb-announce))
 - 毎月１回のペースで[勉強会](http://qwik.jp/okinawarb/2.html)を実施
 - 不定期に[ワークショップ](http://qwik.jp/okinawarb/4.html)を実施
 
@@ -74,7 +74,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 
 ## 2013年
 - [RubyKaja 2013](http://kaja.rubyist.net/2013/about) に参加
-- Weekly Meetup!で[パン](http://text.geeoki.com/post/44616862959/kimihito-photo-by-hanachin-o-instagram)や[パイ](https://www.dropbox.com/s/4bwo6y2tj3o55nw/okinawa.pie.png)を焼き始める
+- Weekly Meetup!で[パンやパイ](http://text.geeoki.com/post/44616862959/kimihito-photo-by-hanachin-o-instagram)を焼き始める
 - Ryukyu.rbやRyudai.rbなどのコミュニティも活発になり、沖縄Ruby会議の構想&準備が始める
 
 ## 2014年
