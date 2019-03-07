@@ -8,11 +8,11 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 
 <ol style="list-style:none; margin-left: -23px;">
   <li style="display: inline-block; line-height: 10px;">
-     <div class="fb-like" data-href="http://ruby.okinawa/" data-layout="button_count"
+     <div class="fb-like" data-href="https://ruby.okinawa/" data-layout="button_count"
 	 data-action="like" data-show-faces="true" data-share="true"></div></li>
   <li style="display: inline-block;">
       <a href="https://twitter.com/share" class="twitter-share-button"
-	 data-url="http://ruby.okinawa/"
+	 data-url="https://ruby.okinawa/"
 	 data-hashtags="okinawarb"
 	 data-text="Okinawa.rb - Okinawa Ruby User Group"
 	 data-lang="ja" data-via="okinawarb" width="100">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
@@ -55,7 +55,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 <!--
 - 過去に使ってたサービス (今はあまり使ってません)
    - [__Okinawa.rb - Facebook Group__](https://www.facebook.com/groups/okinawarb/) (イベントの告知に使います)
-   - [__Okinawa.rb - Meetups__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
+   - [__Okinawa.rb - Meetups__](https://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
 -->
 
 
@@ -79,7 +79,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 
 ## 2014年
 - __Ryukyu.rbやRyudai.rbと協力して、[沖縄Ruby会議01](http://regional.rubykaigi.org/okrk01)を開催!__
-- Weekly Meetupの活動記録を[GitHub上で記録](http://ruby.okinawa/meetups/)し始める (通称: [すごい広島](http://great-h.github.io/)方式)
+- Weekly Meetupの活動記録を[GitHub上で記録](https://ruby.okinawa/meetups/)し始める (通称: [すごい広島](http://great-h.github.io/)方式)
 - [Rubyist Magazine 0047号](http://magazine.rubyist.net/?0047)に沖縄Ruby会議01のレポートが載る
 - [RubyKaja 2014](http://kaja.rubyist.net/2014/about) に参加
 
@@ -104,7 +104,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 直近のイベントについては Doorkeeper や Facebook グループから告知されますので、興味があればまずは下記URLに遊びにきてください!
 
 - [__Okinawa.rb - Facebook Group__](http://www.facebook.com/groups/okinawarb/) (雑談や告知などに使います)
-- [__Okinawa.rb - Meetups__](http://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
+- [__Okinawa.rb - Meetups__](https://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
 
@@ -120,7 +120,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 ## [おんがえし様 (個人)](https://twitter.com/ongaeshi)
 [![@ongaeshiアイコン](/img/ongaeshi.jpg)](https://twitter.com/ongaeshi)   
-2015年4月1日より、[第7回 フクオカRuby大賞](http://www.digitalfukuoka.jp/topics/68?locale=ja)にてGMOペパボ賞を受賞された [@ongaeshi](https://twitter.com/ongaeshi) さんから、[ruby.okinawa](http://ruby.okinawa/) ドメイン (10年分) を寄贈して頂きました :)
+2015年4月1日より、[第7回 フクオカRuby大賞](http://www.digitalfukuoka.jp/topics/68?locale=ja)にてGMOペパボ賞を受賞された [@ongaeshi](https://twitter.com/ongaeshi) さんから、[ruby.okinawa](https://ruby.okinawa/) ドメイン (10年分) を寄贈して頂きました :)
 
 ## [YassLab 株式会社](https://yasslab.jp/)
 <a href="https://yasslab.jp/"><img alt="YassLab 株式会社のロゴ" src="https://yasslab.jp/img/logo_800x200.png" width="100%"></a>   
@@ -154,7 +154,7 @@ For more information, please visit the following websites:
 
 - [MGWave on Google Map](http://goo.gl/maps/KLRAJ)
 - [Photos of Fabrication](https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd)
-- [Records of Meetup](http://ruby.okinawa/meetups/)
+- [Records of Meetup](https://ruby.okinawa/meetups/)
 - [Presentation Slides: "Invitation to Okinawa.rb"](https://speakerdeck.com/yasulab/geekhouse-okinawa-and-okinawa-dot-rb)
 
 If you have a question, please feel free to visit and ask it at [our Facebook Group](https://www.facebook.com/groups/okinawarb/) ;)
