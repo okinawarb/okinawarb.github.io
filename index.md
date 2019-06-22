@@ -134,7 +134,7 @@ Okinawa.rb is a local community for Ruby/Rails users in Okinawa, Japan. From beg
 
 We have two meetups in a month at [MGWave](http://www.mgwave.com/) and [GeekHouse Okinawa](http://blog.geekhouse.okinawa/). :)
 
-## 🍕 Wha we do in the meetup?
+## 🍕 What we do in the meetup?
 
 The meetup is organized by Okinawa.rb, where people who like Ruby/Rails get together and casually share their information with snacks and drinks!
 
