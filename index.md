@@ -59,43 +59,33 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 -->
 
 
-<h1 id="history">📈 今までどんなことしてたの？</h1>
+<h1 id="history">💎 これまでの活動</h1>
 2011年に [@yasulab](https://twitter.com/yasulab) が Okinawa.rb を発起してから、これまでに次のようなイベントを参加/開催して来ました!
 
-## 2011年
-- Okinawa.rb 発足 ([発足当時のスライド資料](http://www.slideshare.net/yasulab/okinawarb-announce))
-- 毎月１回のペースで[勉強会](http://qwik.jp/okinawarb/2.html)を実施
-- 不定期に[ワークショップ](http://qwik.jp/okinawarb/4.html)を実施
+## 2019年
+沖縄Ruby会議02の**[開催レポート](https://magazine.rubyist.net/articles/0059/0059-OkinawaRubyKaigi02Report.html)**が公開されました! 😆🎉✨
 
-## 2012年
-- [ギークハウス沖縄](http://text.geeoki.com/info)の協力のもと、毎週１回のペースで[Weekly Meetup](https://www.facebook.com/groups/okinawarb/events/)を開始!
-- 関西のMinami.rbや関東の渋谷.rbと共に、[Rails Hackathon in 沖縄](https://speakerdeck.com/yasulab/report-of-rails-hackathon-in-okinawa)を実施!
-- [RubyKaja 2012](http://kaja.rubyist.net/2012/about) に参加
+## 2018年
+**[沖縄Ruby会議02](https://ruby.okinawa/okrk02/)を開催しました!** 
 
-## 2013年
-- [RubyKaja 2013](http://kaja.rubyist.net/2013/about) に参加
-- Weekly Meetup!で[パンやパイ](http://text.geeoki.com/post/44616862959/kimihito-photo-by-hanachin-o-instagram)を焼き始める
-- Ryukyu.rbやRyudai.rbなどのコミュニティも活発になり、沖縄Ruby会議の構想&準備が始める
+<img src="https://ruby.okinawa/okrk02/img/okrk02_cover.png" width='100%' />
 
-## 2014年
-- __Ryukyu.rbやRyudai.rbと協力して、[沖縄Ruby会議01](http://regional.rubykaigi.org/okrk01)を開催!__
-- Weekly Meetupの活動記録を[GitHub上で記録](https://ruby.okinawa/meetups/)し始める (通称: [すごい広島](http://great-h.github.io/)方式)
-- [Rubyist Magazine 0047号](http://magazine.rubyist.net/?0047)に沖縄Ruby会議01のレポートが載る
-- [RubyKaja 2014](http://kaja.rubyist.net/2014/about) に参加
-
-## 2015年
-- 会場を提供して頂いた[ギークハウス沖縄が解散](http://text.geeoki.com/post/112124574627)いたしました
-- 開催ペースを毎週から毎月に変更し、会場を[Maker系の機材を一式揃えている有限会社MGWave](https://okinawarb.doorkeeper.jp/events/21390)に変更しました!
-- イベントの名称を Weekly Meetup から Monthly Meetup に変更しました!
-- イベントページを [Facebook Event](https://www.facebook.com/groups/okinawarb/events/) から [Doorkeeper](https://okinawarb.doorkeeper.jp/) に移行しました!
-
-## 2016年
-- 東京や米国のゲストを招いて、[第171回ミートアップ](https://www.facebook.com/media/set/?set=oa.986240784782065&type=1)を実施しました!
-
-Okinawa.rbでは「面白いことがあればまずはやってみよう!」という方が多いです!   
-最近は、会場でレーザーカッターや3Dプリンタが使えるようになったので、Ruby/Rails + Maker 的なプロジェクトも活発です :)
-
-<a href="https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd"><img alt="作品例" src="/img/fab_album.jpg" width="100%"></a>
+当日の様子は動画と写真で記録し、[YouTube の CC BY](https://support.google.com/youtube/answer/2797468?hl=ja) ライセンスで公開しております。動画や写真で当日の雰囲気を味わって頂ければ幸いです📹📸
+<br>
+<br>
+<div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
+📹 動画
+<a href="https://www.youtube.com/playlist?list=PLNLYzHXJU2-84dl1iyRuGMJS9F2_7rArA"><img src="https://ruby.okinawa/okrk02/img/okrk02_youtube.png" width='100%' /></a>
+</div>
+<center><a href="https://www.youtube.com/playlist?list=PLNLYzHXJU2-84dl1iyRuGMJS9F2_7rArA">発表動画まとめ - YouTube</a><br>
+(<a href="https://creativecommons.org/licenses/by/3.0/deed.ja">CC BY</a> ©︎ <a href="https://yasslab.jp/">YassLab Inc.</a>)</center>
+<br>
+<div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
+📸 写真
+<a href="https://www.dropbox.com/sh/s2mw6gvsj052fta/AABDnWKwdsAtQiDX9g9315OUa"><img src="https://ruby.okinawa/okrk02/img/okrk02_photos.png" width='100%' /></a>
+</div>
+<center><a href="https://www.dropbox.com/sh/s2mw6gvsj052fta/AABDnWKwdsAtQiDX9g9315OUa">当日の写真</a><br>
+(<a href="https://creativecommons.org/licenses/by/3.0/deed.ja">CC BY</a> ©︎ <a href="http://twitter.com/nanophate">@nanophate</a>)</center>
 
 ## 2017年
 - 沖縄市で[rebuildされたギークハウス沖縄](http://saboyutaka.hatenablog.com/entry/2016/12/17/165037)でも毎月開催されることになり、月２回開催になりました!
@@ -107,6 +97,41 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - [__Okinawa.rb - Meetups__](https://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
 - [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 - [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
+
+## 2016年
+- 東京や米国のゲストを招いて、[第171回ミートアップ](https://www.facebook.com/media/set/?set=oa.986240784782065&type=1)を実施しました!
+
+Okinawa.rbでは「面白いことがあればまずはやってみよう!」という方が多いです!   
+最近は、会場でレーザーカッターや3Dプリンタが使えるようになったので、Ruby/Rails + Maker 的なプロジェクトも活発です :)
+
+<a href="https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd"><img alt="作品例" src="/img/fab_album.jpg" width="100%"></a>
+
+## 2015年
+- 会場を提供して頂いた[ギークハウス沖縄が解散](http://text.geeoki.com/post/112124574627)いたしました
+- 開催ペースを毎週から毎月に変更し、会場を[Maker系の機材を一式揃えている有限会社MGWave](https://okinawarb.doorkeeper.jp/events/21390)に変更しました!
+- イベントの名称を Weekly Meetup から Monthly Meetup に変更しました!
+- イベントページを [Facebook Event](https://www.facebook.com/groups/okinawarb/events/) から [Doorkeeper](https://okinawarb.doorkeeper.jp/) に移行しました!
+
+## 2014年
+- __Ryukyu.rbやRyudai.rbと協力して、[沖縄Ruby会議01](http://regional.rubykaigi.org/okrk01)を開催!__
+- Weekly Meetupの活動記録を[GitHub上で記録](https://ruby.okinawa/meetups/)し始める (通称: [すごい広島](http://great-h.github.io/)方式)
+- [Rubyist Magazine 0047号](http://magazine.rubyist.net/?0047)に沖縄Ruby会議01のレポートが載る
+- [RubyKaja 2014](http://kaja.rubyist.net/2014/about) に参加
+
+## 2013年
+- [RubyKaja 2013](http://kaja.rubyist.net/2013/about) に参加
+- Weekly Meetup!で[パンやパイ](http://text.geeoki.com/post/44616862959/kimihito-photo-by-hanachin-o-instagram)を焼き始める
+- Ryukyu.rbやRyudai.rbなどのコミュニティも活発になり、沖縄Ruby会議の構想&準備が始める
+
+## 2012年
+- [ギークハウス沖縄](http://text.geeoki.com/info)の協力のもと、毎週１回のペースで[Weekly Meetup](https://www.facebook.com/groups/okinawarb/events/)を開始!
+- 関西のMinami.rbや関東の渋谷.rbと共に、[Rails Hackathon in 沖縄](https://speakerdeck.com/yasulab/report-of-rails-hackathon-in-okinawa)を実施!
+- [RubyKaja 2012](http://kaja.rubyist.net/2012/about) に参加
+
+## 2011年
+- Okinawa.rb 発足 ([発足当時のスライド資料](http://www.slideshare.net/yasulab/okinawarb-announce))
+- 毎月１回のペースで[勉強会](http://qwik.jp/okinawarb/2.html)を実施
+- 不定期に[ワークショップ](http://qwik.jp/okinawarb/4.html)を実施
 
 <h1 id="sponsors">🏢 支援団体・企業</h1>
 
