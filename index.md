@@ -39,18 +39,18 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
 
-沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、毎月２回、那覇市 ([MGWave](http://www.mgwave.com/)) と沖縄市 ([ギークハウス沖縄](http://blog.geekhouse.okinawa/access)) で Meetup を開いています。また、不定期にハッカソンや勉強会も開催しています。
+沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、那覇市 ([MGWave](http://www.mgwave.com/)) と沖縄市 ([ギークハウス沖縄](http://blog.geekhouse.okinawa/access)) で不定期に Meetup を開いています。
 
-沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方や、[Slack](http://slack.ruby.okinawa/) を覗いてみたいだけな方も歓迎です！
+沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方や、[Slack](#welcome) を覗いてみたいだけな方も歓迎です！
 
 
-## 情報の入手、まずはここから ;)
+<h2 id='welcome'>🔰 情報の入手、まずはここから ;)</h2>
 
 次のリンク先から Okinawa.rb の最新の活動を知ることができます。沖縄在住の方に限らず広く受け入れているので、沖縄在住の方はもちろん、沖縄以外に住んでいる方も是非お気軽にお訪ねください！
 
-- [__Okinawa.rb - Slack__](http://slack.ruby.okinawa/) (雑談などに使います)
-- [__#okinawarb - Twitter__](https://twitter.com/search?q=%23okinawarb%20OR%20%22Okinawa.rb%22&src=typd) (Twitter上のハッシュタグです)
-- [__Okinawa.rb - Doorkeeper__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
+- [__Slack - #okinawarb__](https://ruby-jp.github.io/) ([ruby-jp](https://ruby-jp.github.io/) 内にあります)
+- [__Twitter - #okinawarb__](https://twitter.com/search?q=%23okinawarb%20OR%20%22Okinawa.rb%22&src=typd) (Twitter上のハッシュタグです)
+- [__Doorkeeper - Okinawa.rb__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
 
 <!--
 - 過去に使ってたサービス (今はあまり使ってません)
@@ -70,22 +70,16 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 
 <img src="https://ruby.okinawa/okrk02/img/okrk02_cover.png" width='100%' />
 
-当日の様子は動画と写真で記録し、[YouTube の CC BY](https://support.google.com/youtube/answer/2797468?hl=ja) ライセンスで公開しております。動画や写真で当日の雰囲気を味わって頂ければ幸いです📹📸
+当日の様子は写真で記録し、[Creative Commons (CC BY)](https://creativecommons.org/licenses/by/3.0/deed.ja) ライセンスで公開しております。当日の雰囲気の参考になれば幸いです 📸✨
+
 <br>
-<br>
-<div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
-📹 動画
-<a href="https://www.youtube.com/playlist?list=PLNLYzHXJU2-84dl1iyRuGMJS9F2_7rArA"><img src="https://ruby.okinawa/okrk02/img/okrk02_youtube.png" width='100%' /></a>
-</div>
-<center><a href="https://www.youtube.com/playlist?list=PLNLYzHXJU2-84dl1iyRuGMJS9F2_7rArA">発表動画まとめ - YouTube</a><br>
-(<a href="https://creativecommons.org/licenses/by/3.0/deed.ja">CC BY</a> ©︎ <a href="https://yasslab.jp/">YassLab Inc.</a>)</center>
-<br>
+
 <div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
 📸 写真
-<a href="https://www.dropbox.com/sh/s2mw6gvsj052fta/AABDnWKwdsAtQiDX9g9315OUa"><img src="https://ruby.okinawa/okrk02/img/okrk02_photos.png" width='100%' /></a>
+<a href="https://bit.ly/okrk02-photos-on-dropbox"><img src="https://ruby.okinawa/okrk02/img/okrk02_photos.png" width='100%' /></a>
 </div>
-<center><a href="https://www.dropbox.com/sh/s2mw6gvsj052fta/AABDnWKwdsAtQiDX9g9315OUa">当日の写真</a><br>
-(<a href="https://creativecommons.org/licenses/by/3.0/deed.ja">CC BY</a> ©︎ <a href="http://twitter.com/nanophate">@nanophate</a>)</center>
+<center><a href="https://bit.ly/okrk02-photos-on-dropbox">当日の写真 - Dropbox</a><br>
+(<a href="https://creativecommons.org/licenses/by/3.0/deed.ja">Creative Commons</a> ©︎ <a href="http://twitter.com/nanophate">@nanophate</a>)</center>
 
 ## 2017年
 - 沖縄市で[rebuildされたギークハウス沖縄](http://saboyutaka.hatenablog.com/entry/2016/12/17/165037)でも毎月開催されることになり、月２回開催になりました!
