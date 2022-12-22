@@ -129,10 +129,6 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 <h1 id="sponsors">🏢 支援団体・企業</h1>
 
-## [有限会社 MGWave](http://www.mgwave.com/)
-<a href="http://www.mgwave.com/"><img alt="MGWaveロゴ" src="/img/mgwave_logo.png" width="100%"></a>   
-2015年3月から、那覇市で行われる Okinawa.rb に対して会場と機材 (レーザーカッター、3Dプリンタ、カッティングプロッタなど) をご提供して頂いております。各機材の使い方は[コチラ](http://www.slideshare.net/mgwsuzuki/presentations)から公開されております。
-
 ## [ギークハウス沖縄](http://blog.geekhouse.okinawa/)
 <a href="http://blog.geekhouse.okinawa/"><img alt="ギー沖ロゴ" src="/img/geeoki_logo.png" width="100%"></a>   
 沖縄市で開催される Okinawa.rb での会場提供および運営にご協力して頂いております。
@@ -144,6 +140,11 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 ## [YassLab 株式会社](https://yasslab.jp/)
 <a href="https://yasslab.jp/"><img alt="YassLab 株式会社のロゴ" src="https://yasslab.jp/img/logo_800x200.png" width="100%"></a>   
 Okinawa.rb の運営に協力して頂いております。また、[Doorkeeper スポンサーシップ](https://yasslab.jp/ja/doorkeeper/)も提供して頂いております。
+
+## [有限会社 MGWave](http://www.mgwave.com/) (〜2022年12月)
+<a href="http://www.mgwave.com/"><img alt="MGWaveロゴ" src="/img/mgwave_logo.png" width="100%"></a>   
+2015年3月から、那覇市で行われる Okinawa.rb に対して会場と機材 (レーザーカッター、3Dプリンタ、カッティングプロッタなど) をご提供していただきました! これまで会場と機材をご提供していただきありがとうございます...!! 🙏✨
+
 
 <div id="english"></div>
 
