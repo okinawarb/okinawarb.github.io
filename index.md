@@ -39,7 +39,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
 
-沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、那覇市 ([MGWave](http://www.mgwave.com/)) と沖縄市 ([ギークハウス沖縄](http://blog.geekhouse.okinawa/access)) で不定期に Meetup を開いています。
+沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、[ギークハウス沖縄](https://geekhouse.okinawa/)で不定期に Meetup を開いています。
 
 沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方や、[Slack](#welcome) を覗いてみたいだけな方も歓迎です！
 
@@ -60,7 +60,23 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 
 
 <h1 id="history">💎 これまでの活動</h1>
-2011年に [@yasulab](https://twitter.com/yasulab) が Okinawa.rb を発起してから、これまでに次のようなイベントを参加/開催して来ました!
+Okinawa.rb ではこれまで次のようなイベントを参加/開催して来ました!
+
+## 2023年〜現在
+Doorkeeper からお気軽にご参加ください! 😆✨   
+[https://okinawarb.doorkeeper.jp/](https://okinawarb.doorkeeper.jp/)
+
+## 2022年
+**Reboot!!** 🏝 ✨
+- [第223回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/147512)
+- [第222回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/139181)
+
+## 2021年
+リブートに向けて準備中... 🏝 💤
+
+## 2020年
+- [第221回 Okinawa.rb Meetup @ 那覇](https://okinawarb.doorkeeper.jp/events/111868)
+- [第220回 Okinawa.rb Meetup @ 那覇](https://okinawarb.doorkeeper.jp/events/107550)
 
 ## 2019年
 沖縄Ruby会議02の**[開催レポート](https://magazine.rubyist.net/articles/0059/0059-OkinawaRubyKaigi02Report.html)**が公開されました! 😆🎉✨
@@ -108,7 +124,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 ## 2014年
 - __Ryukyu.rbやRyudai.rbと協力して、[沖縄Ruby会議01](http://regional.rubykaigi.org/okrk01)を開催!__
-- Weekly Meetupの活動記録を[GitHub上で記録](https://ruby.okinawa/meetups/)し始める (通称: [すごい広島](http://great-h.github.io/)方式)
+- Weekly Meetup活動の[GitHub記録](https://ruby.okinawa/meetups/)にチャレンジ (通称: [すごい広島](http://great-h.github.io/)方式)
 - [Rubyist Magazine 0047号](http://magazine.rubyist.net/?0047)に沖縄Ruby会議01のレポートが載る
 - [RubyKaja 2014](http://kaja.rubyist.net/2014/about) に参加
 
@@ -123,9 +139,9 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - [RubyKaja 2012](http://kaja.rubyist.net/2012/about) に参加
 
 ## 2011年
-- Okinawa.rb 発足 ([発足当時のスライド資料](http://www.slideshare.net/yasulab/okinawarb-announce))
+- Okinawa.rb 発足 ([スライド資料](https://speakerdeck.com/yasulab/okinawa-dot-rb-hefalseoyou-i))
 - 毎月１回のペースで[勉強会](http://qwik.jp/okinawarb/2.html)を実施
-- 不定期に[ワークショップ](http://qwik.jp/okinawarb/4.html)を実施
+- 不定期に[ワークショップ](http://qwik.jp/okinawarb/4.html)も実施
 
 <h1 id="sponsors">🏢 支援団体・企業</h1>
 
@@ -152,7 +168,7 @@ Okinawa.rb の運営に協力して頂いております。また、[Doorkeeper 
 
 Okinawa.rb is a local community for Ruby/Rails users in Okinawa, Japan. From beginners to veterans, all those who are interested in Ruby/Rails are welcome!
 
-We have two meetups in a month at [MGWave](http://www.mgwave.com/) and [GeekHouse Okinawa](http://blog.geekhouse.okinawa/). :)
+We are hosting a meetup at [GeekHouse Okinawa](http://blog.geekhouse.okinawa/). :)
 
 ## 🍕 What we do in the meetup?
 
@@ -164,6 +180,7 @@ Also, you can freely use wireless, power source, and a projector if you have som
 
 NOTE: You can park at the venue, but only a few cars can park. So, if you come here by car, you may need to park at somewhere around it.
 
+<!--
 ## 🔧 Fabrication!
 
 From Marchi 2015, our meetup starts collaborating with gFab Okinawa (MGWave), where you can use 3D printer, laser cutting machine, cutting plotter, milling machine, etc. So, you can challenge to fabricate something! Maybe you can create something new web services with Ruby/Rails :) 
@@ -178,6 +195,7 @@ For more information, please visit the following websites:
 - [Presentation Slides: "Invitation to Okinawa.rb"](https://speakerdeck.com/yasulab/geekhouse-okinawa-and-okinawa-dot-rb)
 
 If you have a question, please feel free to visit and ask it at [our Facebook Group](https://www.facebook.com/groups/okinawarb/) ;)
+-->
 
 ## 📸 Photos
 
