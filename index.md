@@ -139,7 +139,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - [RubyKaja 2012](http://kaja.rubyist.net/2012/about) に参加
 
 ## 2011年
-- Okinawa.rb 発足 ([スライド資料](https://speakerdeck.com/yasulab/okinawa-dot-rb-hefalseoyou-i))
+- Okinawa.rb 発足 ([スライド資料 - Okinawa.rb へのお誘い](https://speakerdeck.com/yasulab/okinawa-dot-rb-hefalseoyou-i))
 - 毎月１回のペースで[勉強会](http://qwik.jp/okinawarb/2.html)を実施
 - 不定期に[ワークショップ](http://qwik.jp/okinawarb/4.html)も実施
 
