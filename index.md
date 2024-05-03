@@ -34,7 +34,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
     </li>
   </ol>
 
-<h1 id="about">🤔 Okinawa.rbとは？</h1>
+<h1 id="about">🏝 Okinawa.rbとは？</h1>
 
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
