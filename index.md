@@ -39,7 +39,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
 
-沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、[ギークハウス沖縄](https://geekhouse.okinawa/)で不定期に Meetup を開いています。
+沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、那覇市や宜野湾市などで Meetup を開いています。
 
 沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方や、[Slack](#welcome) を覗いてみたいだけな方も歓迎です！
 
