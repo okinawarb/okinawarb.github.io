@@ -129,11 +129,15 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 <a href="https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd"><img alt="作品例" src="/img/fab_album.jpg" width="100%"></a>
 
+
 ## 2015年
 - 会場を提供して頂いた[ギークハウス沖縄が解散](http://text.geeoki.com/post/112124574627)いたしました
 - 開催ペースを毎週から毎月に変更し、会場を[Maker系の機材を一式揃えている有限会社MGWave](https://okinawarb.doorkeeper.jp/events/21390)に変更しました!
 - イベントの名称を Weekly Meetup から Monthly Meetup に変更しました!
 - イベントページを [Facebook Event](https://www.facebook.com/groups/okinawarb/events/) から [Doorkeeper](https://okinawarb.doorkeeper.jp/) に移行しました!
+
+<img src="/img/okinawarb_cnc.jpg" alt="ギークハウス沖縄の看板制作" width="100%"/>
+
 
 ## 2014年
 - __Ryukyu.rbやRyudai.rbと協力して、[沖縄Ruby会議01](http://regional.rubykaigi.org/okrk01)を開催!__
@@ -141,7 +145,9 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - [Rubyist Magazine 0047号](http://magazine.rubyist.net/?0047)に沖縄Ruby会議01のレポートが載る
 - [RubyKaja 2014](http://kaja.rubyist.net/2014/about) に参加
 
-<img src="/img/okinawarb_cnc.jpg" alt="ギークハウス沖縄の看板制作" width="100%"/>
+<img src="/img/okrk01_matz.jpg"  alt="沖縄Ruby会議01の基調講演 by Matz" width="100%"/>
+<img src="/img/okrk01_cover.png" alt="沖縄Ruby会議01の集合写真" width="100%"/>
+
 
 ## 2013年
 - [RubyKaja 2013](http://kaja.rubyist.net/2013/about) に参加
