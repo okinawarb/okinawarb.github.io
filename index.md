@@ -7,9 +7,11 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 (__[English follows Japanese](#english)__)
 
 <ol style="list-style:none; margin-left: -23px;">
+  <!--
   <li style="display: inline-block; line-height: 10px;">
-     <div class="fb-like" data-href="https://ruby.okinawa/" data-layout="button_count"
-	 data-action="like" data-show-faces="true" data-share="true"></div></li>
+    <div class="fb-like" data-href="https://ruby.okinawa/" data-layout="button_count"
+     data-action="like" data-show-faces="true" data-share="true"></div></li>
+  -->
   <li style="display: inline-block;">
       <a href="https://twitter.com/share" class="twitter-share-button"
 	 data-url="https://ruby.okinawa/"
