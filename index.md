@@ -80,7 +80,7 @@ Doorkeeper からお気軽にご参加ください! 😆✨
 - [第223回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/147512)
 - [第222回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/139181)
 
-<img src="/img/okinawarb_geeoki.jpg" alt="@ ギークハウス沖縄の様子" width="100%"/>
+<img src="/img/okinawarb_geeoki-2.jpg" alt="@ ギークハウス沖縄の様子" width="100%"/>
 
 ## 2021年
 リブートに向けて準備中... 🏝 💤
@@ -155,10 +155,14 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - 関西のMinami.rbや関東の渋谷.rbと共に、[Rails Hackathon in 沖縄](https://speakerdeck.com/yasulab/report-of-rails-hackathon-in-okinawa)を実施!
 - [RubyKaja 2012](http://kaja.rubyist.net/2012/about) に参加
 
+<img src="/img/okinawarb_geeoki-1.jpg" alt="@ ギークハウス沖縄の様子" width="100%"/>
+
 ## 2011年
 - Okinawa.rb 発足 ([当時のスライド資料 - Okinawa.rb へのお誘い](https://speakerdeck.com/yasulab/okinawa-dot-rb-hefalseoyou-i))
 - 毎月１回のペースで[勉強会](http://qwik.jp/okinawarb/2.html)を実施
 - 不定期に[ワークショップ](http://qwik.jp/okinawarb/4.html)も実施
+
+<img src="/img/okinawarb_first.jpg" alt="@ レキサスの様子" width="100%"/>
 
 <h1 id="sponsors">🏢 支援団体・企業</h1>
 
