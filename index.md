@@ -43,14 +43,14 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
 
-沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、那覇市や宜野湾市などで Meetup を開いています。
+沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、那覇市や宜野湾市などで Meetup を開いています 👥✨
 
-沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方も歓迎です！
+沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方も歓迎です！😆👌
 
 
 <h2 id='welcome'>🔰 情報の入手、まずはここから ;)</h2>
 
-次のリンク先から Okinawa.rb の最新の活動を知ることができます。沖縄在住の方に限らず広く受け入れているので、沖縄在住の方はもちろん、沖縄以外に住んでいる方も是非お気軽にお訪ねください！
+以下のリンク先から Okinawa.rb の活動を知ることができます。Doorkeeper に登録すると次回イベントの案内が届いて便利です 📧💨
 
 - [__Slack - #okinawarb__](https://ruby-jp.github.io/) ([ruby-jp](https://ruby-jp.github.io/) 内にあります)
 - [__Twitter - #okinawarb__](https://twitter.com/search?q=%23okinawarb%20OR%20%22Okinawa.rb%22&src=typd) (Twitter上のハッシュタグです)
