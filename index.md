@@ -60,6 +60,9 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
    - [__Okinawa.rb - Meetups__](https://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
 -->
 
+<img src="/img/okinawarb_cover_ogp.jpg" alt="Cover Photo" width="100%"/>
+
+<br><br>
 
 <h1 id="history">💎 これまでの活動</h1>
 Okinawa.rb ではこれまで次のようなイベントを参加/開催して来ました!
