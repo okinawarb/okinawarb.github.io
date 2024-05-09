@@ -3,6 +3,8 @@ layout: default
 title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 ---
 
+<img src="/img/okinawarb_cover_ogp.jpg" alt="Cover Photo" width="100%"/>
+
 このサイトでは、Okinawa.rb（沖縄Rubyユーザグループ）の活動内容や参加方法などの説明をしています。
 (__[English follows Japanese](#english)__)
 
@@ -43,7 +45,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 
 沖縄の Ruby/Rails コミュニュティです。沖縄に在住または滞在している Ruby/Rails な方々でワイワイすることを目的として、那覇市や宜野湾市などで Meetup を開いています。
 
-沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方や、[Slack](#welcome) を覗いてみたいだけな方も歓迎です！
+沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方やも歓迎です！
 
 
 <h2 id='welcome'>🔰 情報の入手、まずはここから ;)</h2>
@@ -60,7 +62,7 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
    - [__Okinawa.rb - Meetups__](https://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
 -->
 
-<img src="/img/okinawarb_cover_ogp.jpg" alt="Cover Photo" width="100%"/>
+<img src="/img/okinawarb_scene.jpg" alt="Cover Photo" width="100%"/>
 
 <br><br>
 
@@ -71,10 +73,14 @@ Okinawa.rb ではこれまで次のようなイベントを参加/開催して�
 Doorkeeper からお気軽にご参加ください! 😆✨   
 [https://okinawarb.doorkeeper.jp/](https://okinawarb.doorkeeper.jp/)
 
+<img src="/img/okinawarb_naha.jpg" alt="@ MG Wave の様子" width="100%"/>
+
 ## 2022年
 **Reboot!!** 🏝 ✨
 - [第223回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/147512)
 - [第222回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/139181)
+
+<img src="/img/okinawarb_geeoki.jpg" alt="@ ギークハウス沖縄の様子" width="100%"/>
 
 ## 2021年
 リブートに向けて準備中... 🏝 💤
@@ -82,6 +88,8 @@ Doorkeeper からお気軽にご参加ください! 😆✨
 ## 2020年
 - [第221回 Okinawa.rb Meetup @ 那覇](https://okinawarb.doorkeeper.jp/events/111868)
 - [第220回 Okinawa.rb Meetup @ 那覇](https://okinawarb.doorkeeper.jp/events/107550)
+
+<img src="/img/okinawarb_yasslab.jpg" alt="@ YassLab の様子" width="100%"/>
 
 ## 2019年
 沖縄Ruby会議02の**[開催レポート](https://magazine.rubyist.net/articles/0059/0059-OkinawaRubyKaigi02Report.html)**が公開されました! 😆🎉✨
@@ -133,10 +141,14 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - [Rubyist Magazine 0047号](http://magazine.rubyist.net/?0047)に沖縄Ruby会議01のレポートが載る
 - [RubyKaja 2014](http://kaja.rubyist.net/2014/about) に参加
 
+<img src="/img/okinawarb_cnc.jpg" alt="ギークハウス沖縄の看板制作" width="100%"/>
+
 ## 2013年
 - [RubyKaja 2013](http://kaja.rubyist.net/2013/about) に参加
 - Weekly Meetup!で[パンやパイ](http://text.geeoki.com/post/44616862959/kimihito-photo-by-hanachin-o-instagram)を焼き始める
 - Ryukyu.rbやRyudai.rbなどのコミュニティも活発になり、沖縄Ruby会議の構想&準備が始める
+
+<img src="/img/okinawarb_pie.jpg" alt="パン！" width="100%"/>
 
 ## 2012年
 - [ギークハウス沖縄](http://text.geeoki.com/info)の協力のもと、毎週１回のペースで[Weekly Meetup](https://www.facebook.com/groups/okinawarb/events/)を開始!
