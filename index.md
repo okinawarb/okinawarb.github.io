@@ -125,6 +125,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 最近は、会場でレーザーカッターや3Dプリンタが使えるようになったので、Ruby/Rails + Maker 的なプロジェクトも活発です :)
 
 <a href="https://www.facebook.com/media/set/?set=a.10151777845730869.1073741828.715330868&type=1&l=dbc0e367dd"><img alt="作品例" src="/img/fab_album.jpg" width="100%"></a>
+<img src="/img/okinawarb_cnc.jpg" alt="ギークハウス沖縄の看板制作" width="100%"/>
 
 
 ## 2015年
@@ -133,7 +134,8 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - イベントの名称を Weekly Meetup から Monthly Meetup に変更しました!
 - イベントページを [Facebook Event](https://www.facebook.com/groups/okinawarb/events/) から [Doorkeeper](https://okinawarb.doorkeeper.jp/) に移行しました!
 
-<img src="/img/okinawarb_cnc.jpg" alt="ギークハウス沖縄の看板制作" width="100%"/>
+<a href="https://www.facebook.com/media/set/?set=oa.869963949743083&type=1"><img alt="Meetup Scene 1/3" src="/img/okinawarb_photos_1.png" width="100%"></a>
+<a href="https://www.facebook.com/media/set/?set=oa.940660696006741&type=1"><img alt="Meetup Scene 2/3" src="/img/okinawarb_photos_2.png" width="100%"></a>
 
 
 ## 2014年
