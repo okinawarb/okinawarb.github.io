@@ -80,7 +80,7 @@ Doorkeeper からお気軽にご参加ください! 😆✨
 - [第223回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/147512)
 - [第222回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/139181)
 
-<img src="/img/okinawarb_geeoki-2.jpg" alt="@ ギークハウス沖縄の様子" width="100%"/>
+<a href="https://www.facebook.com/media/set/?set=oa.986240784782065&type=1"><img alt="Meetup Scene 3/3" src="/img/okinawarb_photos_3.png" width="100%"></a>
 
 ## 2021年
 リブートに向けて準備中... 🏝 💤
@@ -110,16 +110,13 @@ Doorkeeper からお気軽にご参加ください! 😆✨
 <center><a href="https://bit.ly/okrk02-photos-on-dropbox">当日の写真 - Dropbox</a><br>
 (<a href="https://creativecommons.org/licenses/by/3.0/deed.ja">Creative Commons</a> ©︎ <a href="http://twitter.com/nanophate">@nanophate</a>)</center>
 
+
 ## 2017年
 - 沖縄市で[rebuildされたギークハウス沖縄](http://saboyutaka.hatenablog.com/entry/2016/12/17/165037)でも毎月開催されることになり、月２回開催になりました!
 - イベント名を Monthly Meetup から Okinawa.rb Meetup に変更 
 
-直近のイベントについては Doorkeeper や Facebook グループから告知されますので、興味があればまずは下記URLに遊びにきてください!
+<img src="/img/okinawarb_geeoki-2.jpg" alt="@ ギークハウス沖縄の様子" width="100%"/>
 
-- [__Okinawa.rb - Facebook Group__](http://www.facebook.com/groups/okinawarb/) (雑談や告知などに使います)
-- [__Okinawa.rb - Meetups__](https://ruby.okinawa/meetups/) (活動状況を記事にして公開しています)
-- [__Okinawa.rb - Event Pages__](https://okinawarb.doorkeeper.jp/) (イベントページはコチラから公開しています)
-- [__#okinawarb - Twitter__](https://twitter.com/search?f=realtime&q=%23okinawarb%20OR%20Okinawa.rb&src=typd) (Twitter上のハッシュタグです)
 
 ## 2016年
 - 東京や米国のゲストを招いて、[第171回ミートアップ](https://www.facebook.com/media/set/?set=oa.986240784782065&type=1)を実施しました!
