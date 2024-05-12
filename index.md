@@ -27,18 +27,21 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 	   data-hatena-bookmark-layout="standard-balloon"
 	   data-hatena-bookmark-lang="ja"
 	   title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></li>
-    <li style="display: inline-block;"><div class="g-plusone" data-size="medium" data-lang="ja"></div>
-      <script type="text/javascript">
-	(function() {
-        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        po.src = 'https://apis.google.com/js/plusone.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	})();
-      </script>
-    </li>
-  </ol>
+  <li style="display: inline-block;"><div class="g-plusone" data-size="medium" data-lang="ja"></div>
+    <script type="text/javascript">
+     (function() {
+       var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+       po.src = 'https://apis.google.com/js/plusone.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+     })();
+    </script>
+  </li>
+</ol>
 
-<h1 id="about">🏝 Okinawa.rbとは？</h1>
+<h1 id="about">
+  <a href='#about'>🏝</a>
+  Okinawa.rbとは？
+</h1>
 
 <img src="/img/okinawarb_cover.jpg" alt="Cover Photo" width="100%"/>
 
@@ -48,7 +51,10 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 沖縄の方はもちろん、たまたま沖縄にフラっと寄っている方も歓迎です！😆👌
 
 
-<h2 id='welcome'>🔰 情報の入手、まずはここから ;)</h2>
+<h2 id='welcome'>
+  <a href='#welcome'>🔰</a>
+  情報の入手、まずはここから ;)
+</h2>
 
 以下のリンク先から Okinawa.rb の活動を知ることができます。Doorkeeper に登録すると次回イベントの案内が届いて便利です 📧💨
 
@@ -66,35 +72,42 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 
 <br><br>
 
-<h1 id="history">💎 これまでの活動</h1>
+<h1 id="history">
+  <a href='#history'>💎</a>
+  これまでの活動
+</h1>
 Okinawa.rb ではこれまで次のようなイベントを参加/開催して来ました!
 
-## 2023年〜現在
+<h2 id='2023'><a href='#2023'>#</a> 2023年〜現在</h2>
 Doorkeeper からお気軽にご参加ください! 😆✨   
 [https://okinawarb.doorkeeper.jp/](https://okinawarb.doorkeeper.jp/)
 
 <img src="/img/okinawarb_naha.jpg" alt="@ MG Wave の様子" width="100%"/>
 
-## 2022年
+
+<h2 id='2022'><a href='#2022'>#</a> 2022年</h2>
 **Reboot!!** 🏝 ✨
 - [第223回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/147512)
 - [第222回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/139181)
 
 <a href="https://www.facebook.com/media/set/?set=oa.986240784782065&type=1"><img alt="Meetup Scene 3/3" src="/img/okinawarb_photos_3.png" width="100%"></a>
 
-## 2021年
+
+<h2 id='2021'><a href='#2021'>#</a> 2021年</h2>
 リブートに向けて準備中... 🏝 💤
 
-## 2020年
+
+<h2 id='2020'><a href='#2020'>#</a> 2020年</h2>
 - [第221回 Okinawa.rb Meetup @ 那覇](https://okinawarb.doorkeeper.jp/events/111868)
 - [第220回 Okinawa.rb Meetup @ 那覇](https://okinawarb.doorkeeper.jp/events/107550)
 
 <img src="/img/okinawarb_yasslab.jpg" alt="@ YassLab の様子" width="100%"/>
 
-## 2019年
+
+<h2 id='2019'><a href='#2019'>#</a> 2019年</h2>
 沖縄Ruby会議02の**[開催レポート](https://magazine.rubyist.net/articles/0059/0059-OkinawaRubyKaigi02Report.html)**が公開されました! 😆🎉✨
 
-## 2018年
+<h2 id='2018'><a href='#2018'>#</a> 2018年</h2>
 **[沖縄Ruby会議02](https://ruby.okinawa/okrk02/)を開催しました!** 
 
 <img src="https://ruby.okinawa/okrk02/img/okrk02_cover.png" width='100%' />
@@ -111,14 +124,14 @@ Doorkeeper からお気軽にご参加ください! 😆✨
 (<a href="https://creativecommons.org/licenses/by/3.0/deed.ja">Creative Commons</a> ©︎ <a href="http://twitter.com/nanophate">@nanophate</a>)</center>
 
 
-## 2017年
+<h2 id='2017'><a href='#2017'>#</a> 2017年</h2>
 - 沖縄市で[rebuildされたギークハウス沖縄](http://saboyutaka.hatenablog.com/entry/2016/12/17/165037)でも毎月開催されることになり、月２回開催になりました!
 - イベント名を Monthly Meetup から Okinawa.rb Meetup に変更 
 
 <img src="/img/okinawarb_geeoki-2.jpg" alt="@ ギークハウス沖縄の様子" width="100%"/>
 
 
-## 2016年
+<h2 id='2016'><a href='#2016'>#</a> 2016年</h2>
 - 東京や米国のゲストを招いて、[第171回ミートアップ](https://www.facebook.com/media/set/?set=oa.986240784782065&type=1)を実施しました!
 
 Okinawa.rbでは「面白いことがあればまずはやってみよう!」という方が多いです!   
@@ -128,7 +141,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 <img src="/img/okinawarb_cnc.jpg" alt="ギークハウス沖縄の看板制作" width="100%"/>
 
 
-## 2015年
+<h2 id='2015'><a href='#2015'>#</a> 2015年</h2>
 - 会場を提供して頂いた[ギークハウス沖縄が解散](http://text.geeoki.com/post/112124574627)いたしました
 - 開催ペースを毎週から毎月に変更し、会場を[Maker系の機材を一式揃えている有限会社MGWave](https://okinawarb.doorkeeper.jp/events/21390)に変更しました!
 - イベントの名称を Weekly Meetup から Monthly Meetup に変更しました!
@@ -137,8 +150,9 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 <a href="https://www.facebook.com/media/set/?set=oa.869963949743083&type=1"><img alt="Meetup Scene 1/3" src="/img/okinawarb_photos_1.png" width="100%"></a>
 <a href="https://www.facebook.com/media/set/?set=oa.940660696006741&type=1"><img alt="Meetup Scene 2/3" src="/img/okinawarb_photos_2.png" width="100%"></a>
 
+<br>
 
-## 2014年
+<h2 id='2014'><a href='#2014'>#</a> 2014年</h2>
 - __Ryukyu.rbやRyudai.rbと協力して、[沖縄Ruby会議01](http://regional.rubykaigi.org/okrk01)を開催!__
 - Weekly Meetup活動の[GitHub記録](https://ruby.okinawa/meetups/)にチャレンジ (通称: [すごい広島](http://great-h.github.io/)方式)
 - [Rubyist Magazine 0047号](http://magazine.rubyist.net/?0047)に沖縄Ruby会議01のレポートが載る
@@ -148,26 +162,28 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 <img src="/img/okrk01_cover.png" alt="沖縄Ruby会議01の集合写真" width="100%"/>
 
 
-## 2013年
+<h2 id='2013'><a href='#2013'>#</a> 2013年</h2>
 - [RubyKaja 2013](http://kaja.rubyist.net/2013/about) に参加
 - Weekly Meetup!で[パンやパイ](http://text.geeoki.com/post/44616862959/kimihito-photo-by-hanachin-o-instagram)を焼き始める
 - Ryukyu.rbやRyudai.rbなどのコミュニティも活発になり、沖縄Ruby会議の構想&準備が始める
 
 <img src="/img/okinawarb_pie.jpg" alt="パン！" width="100%"/>
 
-## 2012年
+<h2 id='2012'><a href='#2012'>#</a> 2012年</h2>
 - [ギークハウス沖縄](http://text.geeoki.com/info)の協力のもと、毎週１回のペースで[Weekly Meetup](https://www.facebook.com/groups/okinawarb/events/)を開始!
 - 関西のMinami.rbや関東の渋谷.rbと共に、[Rails Hackathon in 沖縄](https://speakerdeck.com/yasulab/report-of-rails-hackathon-in-okinawa)を実施!
 - [RubyKaja 2012](http://kaja.rubyist.net/2012/about) に参加
 
 <img src="/img/okinawarb_geeoki-1.jpg" alt="@ ギークハウス沖縄の様子" width="100%"/>
 
-## 2011年
+<h2 id='2011'><a href='#2011'>#</a> 2011年</h2>
 - Okinawa.rb 発足 ([当時のスライド資料 - Okinawa.rb へのお誘い](https://speakerdeck.com/yasulab/okinawa-dot-rb-hefalseoyou-i))
-- 毎月１回のペースで[勉強会](http://qwik.jp/okinawarb/2.html)を実施
-- 不定期に[ワークショップ](http://qwik.jp/okinawarb/4.html)も実施
+- 毎月１回のペースで勉強会を実施
+- 不定期にワークショップも実施
 
 <img src="/img/okinawarb_first.jpg" alt="@ レキサスの様子" width="100%"/>
+
+<br>
 
 <h1 id="sponsors">🏢 支援団体・企業</h1>
 
