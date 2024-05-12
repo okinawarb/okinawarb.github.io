@@ -185,7 +185,10 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 
 <br>
 
-<h1 id="sponsors">🏢 支援団体・企業</h1>
+<h1 id='supporters'>
+  <a href='#supporters'>🏢</a>
+  支援団体・企業
+</h1>
 
 ## [ギークハウス沖縄](http://blog.geekhouse.okinawa/)
 <a href="http://blog.geekhouse.okinawa/"><img alt="ギー沖ロゴ" src="/img/geeoki_logo.png" width="100%"></a>   
@@ -203,10 +206,11 @@ Okinawa.rb の運営に協力して頂いております。また、[Doorkeeper 
 <a href="http://www.mgwave.com/"><img alt="MGWaveロゴ" src="/img/mgwave_logo.png" width="100%"></a>   
 2015年3月から、那覇市で行われる Okinawa.rb に対して会場と機材 (レーザーカッター、3Dプリンタ、カッティングプロッタなど) をご提供していただきました! これまで会場と機材をご提供していただきありがとうございます...!! 🙏✨
 
+<br><br><br>
 
 <div id="english"></div>
 
-# 🤔 What's Okinawa.rb? 
+# [🏝](#english) What's Okinawa.rb? 
 
 Okinawa.rb is a local community for Ruby/Rails users in Okinawa, Japan. From beginners to veterans, all those who are interested in Ruby/Rails are welcome!
 
