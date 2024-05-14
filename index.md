@@ -89,7 +89,7 @@ Okinawa.rb ではこれまで次のようなイベントを参加/開催して�
 <img src="/img/rubykaigi2024-3.jpg" alt="@ SAKURA innobase Okinawa"        width="100%"/>
 -->
 
-<h2 id='2023'><a href='#2023'>#</a> 2023年〜現在</h2>
+<h2 id='2023'><a href='#2023'>#</a> 2023年</h2>
 Doorkeeper からお気軽にご参加ください! 😆✨   
 [https://okinawarb.doorkeeper.jp/](https://okinawarb.doorkeeper.jp/)
 
