@@ -78,6 +78,17 @@ title:  Okinawa.rb - 沖縄Rubyユーザーグループ
 </h1>
 Okinawa.rb ではこれまで次のようなイベントを参加/開催して来ました!
 
+<h2 id='2024'><a href='#2024'>#</a> 2024年〜現在</h2>
+**\\\ RubyKaigi 2024 in Naha, Okinawa!! //**  
+[https://rubykaigi.org/2024/](https://rubykaigi.org/2024/)
+
+<img src="/img/rubykaigi2024-2.jpg" alt="@ RubyKaigi 2024 in Naha Airport" width="100%"/>
+
+<!--
+<img src="/img/rubykaigi2024-1.jpg" alt="@ RubyKaigi 2023 - Closing Talk"  width="100%"/>
+<img src="/img/rubykaigi2024-3.jpg" alt="@ SAKURA innobase Okinawa"        width="100%"/>
+-->
+
 <h2 id='2023'><a href='#2023'>#</a> 2023年〜現在</h2>
 Doorkeeper からお気軽にご参加ください! 😆✨   
 [https://okinawarb.doorkeeper.jp/](https://okinawarb.doorkeeper.jp/)
