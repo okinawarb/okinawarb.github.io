@@ -82,7 +82,7 @@ Okinawa.rb ではこれまで次のようなイベントを参加/開催して�
 **\\\ RubyKaigi 2024 in Naha, Okinawa!! //**  
 [https://rubykaigi.org/2024/](https://rubykaigi.org/2024/)
 
-<img src="/img/rubykaigi2024-2.jpg" alt="@ RubyKaigi 2024 in Naha Airport" width="100%"/>
+[<img src="/img/rubykaigi2024-2.jpg" alt="@ RubyKaigi 2024 in Naha Airport" width="100%"/>](https://rubykaigi.org/2024/)
 
 <!--
 <img src="/img/rubykaigi2024-1.jpg" alt="@ RubyKaigi 2023 - Closing Talk"  width="100%"/>
