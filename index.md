@@ -90,14 +90,15 @@ Okinawa.rb ではこれまで次のようなイベントを参加/開催して�
 -->
 
 <h2 id='2023'><a href='#2023'>#</a> 2023年</h2>
-Doorkeeper からお気軽にご参加ください! 😆✨   
+宜野湾での会場に加えて那覇市の会場 (SAKURA innobase Okinawa) も...!! 🙏✨   
+那覇近辺の方も Doorkeeper からお気軽にご参加ください! 😆✨   
 [https://okinawarb.doorkeeper.jp/](https://okinawarb.doorkeeper.jp/)
 
-<img src="/img/okinawarb_naha.jpg" alt="@ MG Wave の様子" width="100%"/>
+<img src="/img/sakura-innobase-okinawa.jpg" alt="@ SAKURA innobase Okinawa"        width="100%"/>
 
 
 <h2 id='2022'><a href='#2022'>#</a> 2022年</h2>
-**Reboot!!** 🏝 ✨
+**Reboot in 宜野湾!!** 🏝 ✨
 - [第223回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/147512)
 - [第222回 Okinawa.rb Meetup @ CODEBASE OKINAWA 宜野湾](https://okinawarb.doorkeeper.jp/events/139181)
 
