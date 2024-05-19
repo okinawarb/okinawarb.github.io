@@ -82,7 +82,12 @@ Okinawa.rb ではこれまで次のようなイベントを参加/開催して�
 **\\\ RubyKaigi 2024 in Naha, Okinawa!! //**  
 [https://rubykaigi.org/2024/](https://rubykaigi.org/2024/)
 
-[<img src="/img/rubykaigi2024-2.jpg" alt="@ RubyKaigi 2024 in Naha Airport" width="100%"/>](https://rubykaigi.org/2024/)
+[<img src="/img/rubykaigi2024-1.jpg" alt="@ RubyKaigi 2024 in Naha Airport, Okinawa" width="100%"/>](https://rubykaigi.org/2024/)
+
+**Thanks to all Rubyists for making RubyKaigi 2024 in Okinawa happen!** 💎🏝✨   
+And see you at the next RubyKaigi in Matsuyama, Ehime! 👋😆💖
+
+[<img src="/img/rubykaigi2024-2.jpg" alt="@ RubyKaigi 2024 in なはーと, Okinawa (Closing)" width="100%"/>](https://x.com/okinawarb/status/1792096077073834382)
 
 <!--
 <img src="/img/rubykaigi2024-1.jpg" alt="@ RubyKaigi 2023 - Closing Talk"  width="100%"/>
