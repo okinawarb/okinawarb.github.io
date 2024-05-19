@@ -198,7 +198,7 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
 - 毎月１回のペースで勉強会を実施
 - 不定期にワークショップも実施
 
-<img src="/img/okinawarb_first.jpg" alt="@ レキサスの様子" width="100%"/>
+<img src="/img/okinawarb_2011.jpg" alt="@ レキサスの様子" width="100%"/>
 
 <br>
 
