@@ -207,6 +207,12 @@ Okinawa.rbでは「面白いことがあればまずはやってみよう!」と
   支援団体・企業
 </h1>
 
+## [合同会社春秋](https://www.shunju.io/)
+<a href="https://www.shunju.io/"><img alt="春秋ロゴ" src="/img/shunju.png" width="100%"></a>  
+
+Okinawa.rb のイベント運営などにご協力して頂いております。   
+[https://okinawarb.doorkeeper.jp/](https://okinawarb.doorkeeper.jp/)
+
 ## [ギークハウス沖縄](http://blog.geekhouse.okinawa/)
 <a href="http://blog.geekhouse.okinawa/"><img alt="ギー沖ロゴ" src="/img/geeoki_logo.png" width="100%"></a>   
 沖縄市で開催される Okinawa.rb での会場提供および運営にご協力して頂いております。
